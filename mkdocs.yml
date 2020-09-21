@@ -1,0 +1,17 @@
+site_name: 2021届4班の沙雕Wiki
+theme:
+  name: 'material'
+  palette:
+    primary: "blue"
+    accent: "deep orange"
+  language: "zh"
+site_url: https://czs233.github.io
+site_author: 2021届4班全体同学
+copyright: Copyright © 2020
+markdown_extensions:
+    - admonition:
+    - meta:
+plugins:
+  - search
+extra:
+  disqus: 'czs233'
