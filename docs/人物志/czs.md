@@ -9,8 +9,6 @@
 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=34380194&auto=1&height=66"></iframe>
-
-
 你班被迫害最严重对象之一。**外号数不清**
 
 如：zozo(由**兔主席**发扬光大)、czs、子硕......
@@ -22,14 +20,11 @@
 每日中午会在平板柜前讲**苏联笑话**
 
 ### 经常被抓去当苦力
+*彭老御用苦力*
 
-*2021届4班罗德岛制药公司分部**创建者之一**; 主要干部*
+*"泰拉"世界信息交换站**创建者之一、首席技术员**; 主要干部*
 
 
 ## 消歧义：
 “zozo”、czs233、村支书、碳纸
 ---
-"是大佬，太强了"
-​                           ——
-"zozozozozozo......"
-​                             ——兔主席
