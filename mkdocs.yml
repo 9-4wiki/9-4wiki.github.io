@@ -7,7 +7,7 @@ theme:
   language: "zh"
 site_url: https://czs233.github.io
 site_author: 2021届4班全体同学
-copyright: Copyright © 2020
+copyright: Copyright © 2021
 markdown_extensions:
     - admonition:
     - meta:
